@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>git_home</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-20 13:49:31</sys_created_on>
+        <sys_id>17b250f04f7f2300f633121f9310c708</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>git_home</sys_name>
+        <sys_package display_value="Git Integration Demo" source="x_316657_git_integ">164008f04ffb2300f633121f9310c781</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git Integration Demo">164008f04ffb2300f633121f9310c781</sys_scope>
+        <sys_update_name>sp_page_17b250f04f7f2300f633121f9310c708</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-20 13:49:31</sys_updated_on>
+        <title>Home</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=17b250f04f7f2300f633121f9310c708"/>
+</record_update>

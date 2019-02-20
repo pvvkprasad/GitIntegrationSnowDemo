@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">af0314f04f7f2300f633121f9310c76f</sp_column>
+        <sp_widget display_value="My Requests">f1672671d7301200a9addd173e24d47d</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-20 14:00:15</sys_created_on>
+        <sys_id>d55510344f7f2300f633121f9310c72e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Git Integration Demo" source="x_316657_git_integ">164008f04ffb2300f633121f9310c781</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git Integration Demo">164008f04ffb2300f633121f9310c781</sys_scope>
+        <sys_update_name>sp_instance_d55510344f7f2300f633121f9310c72e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-20 14:00:15</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=d55510344f7f2300f633121f9310c72e"/>
+</record_update>
